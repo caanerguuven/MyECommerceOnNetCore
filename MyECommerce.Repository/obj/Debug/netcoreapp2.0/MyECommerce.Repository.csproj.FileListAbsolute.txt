@@ -1,0 +1,12 @@
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\bin\Debug\netcoreapp2.0\MyECommerce.Repository.deps.json
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\bin\Debug\netcoreapp2.0\MyECommerce.Repository.dll
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\bin\Debug\netcoreapp2.0\MyECommerce.Repository.pdb
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\bin\Debug\netcoreapp2.0\MyECommerce.Entity.dll
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\bin\Debug\netcoreapp2.0\MyECommerce.Entity.pdb
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\obj\Debug\netcoreapp2.0\MyECommerce.Repository.csprojAssemblyReference.cache
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\obj\Debug\netcoreapp2.0\MyECommerce.Repository.csproj.CoreCompileInputs.cache
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\obj\Debug\netcoreapp2.0\MyECommerce.Repository.AssemblyInfoInputs.cache
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\obj\Debug\netcoreapp2.0\MyECommerce.Repository.AssemblyInfo.cs
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\obj\Debug\netcoreapp2.0\MyECommerce.Repository.csproj.CopyComplete
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\obj\Debug\netcoreapp2.0\MyECommerce.Repository.dll
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\obj\Debug\netcoreapp2.0\MyECommerce.Repository.pdb

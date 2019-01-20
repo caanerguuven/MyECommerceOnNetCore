@@ -1,0 +1,45 @@
+﻿@model OrderDetailsModel
+
+@{
+    ViewData["Title"] = "Checkout";
+}
+
+<section id="content">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="padding25">
+                    <h4> <b>Checkout Page</b> <br /> Please, Type your address information for your order delivery.</h4>
+                </div>
+                <div class="text-danger" asp-validation-summary="All"></div>
+                <form asp-controller="Cart" asp-action="Checkout" method="post">
+                    <div class="row">
+
+                        <div class="form-group col-xs-12">
+                            <textarea asp-for="AddressHeader" class="form-control" rows="1" placeholder="Address Header" required></textarea>
+                        </div>
+                        <div class="form-group col-xs-12">
+                            <textarea asp-for="AddressRow" class="form-control" rows="1" placeholder="Address Row" required></textarea>
+                        </div>
+                        <div class="form-group col-xs-12">
+                            <textarea asp-for="City" class="form-control" rows="1" placeholder="Your City" required></textarea>
+                        </div>
+                        <div class="form-group col-xs-12">
+                            <textarea asp-for="Neighborhood" class="form-control" rows="1" placeholder="Your Neighborhood" required></textarea>
+                        </div>
+                        <div class="form-group col-xs-12">
+                            <textarea asp-for="Telephone" class="form-control" rows="1" placeholder="Contact Telephone" required></textarea>
+                        </div>
+                        <div asp class="form-group col-xs-12 text-left">
+                            <button type="submit" class="btn btn-primary btn-lg"><i class="fa fa-send fa-fw"></i> Complete The Order</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+
+</section>
+

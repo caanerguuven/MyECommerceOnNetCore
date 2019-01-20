@@ -1,0 +1,85 @@
+﻿@model CartModel
+@{
+    ViewData["Title"] = "Index";
+}
+<section id="cart" class="container">
+    <!-- row start -->
+    <div class="row">
+        <!-- cart contents start -->
+        <div class="col-md-8">
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th>Product</th>
+                            <th>Price</th>
+                            <th class="qtycolumn">Quantity</th>
+                            <th>Total</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.products)
+                        {
+                            <tr>
+                                <td><img alt="" class="img-responsive product-thumb" src="~/images/products/thumbs/@item.Product.ProductImageUrl"></td>
+                                <td><a href="#">@item.Product.ProductName</a></td>
+                                <td>$@item.Product.ProductPrice</td>
+                                <td>
+                                    <div class="form-group">
+                                        <input type="number" class="form-control" value="@item.Quantity" min="1" step="1">
+                                    </div>
+                                </td>
+                                <td>$@(item.Quantity * item.Product.ProductPrice)</td>
+                                
+                                <td>
+                                    <form asp-controller="Cart" asp-action="RemoveFromCart" method="post">
+                                        <input type="hidden" name="productId" value="@item.Product.ProductId" />
+                                        
+                                        <button type="submit" class="btn btn-danger btn-sm"> 
+                                            Remove 
+                                            <i class="fa fa-times fa-fw"></i>
+                                        </button>
+                                    </form>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+            <div class="text-right">
+                <a href="#" class="btn btn-default"><i class="fa fa-refresh fa-fw"></i> Update Cart</i></a>
+            </div>
+        </div>
+        <!-- cart contents end -->
+        <!-- cart total start -->
+        <div class="col-md-4">
+            <div class="text-left">
+                <h4>CART <b>TOTALS</b></h4>
+            </div>
+            <table class="table">
+                <tr>
+                    <th>Cart Subtotal</th>
+                    <td>$@Model.TotalPriceOfProducts().ToString()</td>
+                </tr>
+                <tr>
+                    <th>Shipping</th>
+                    <td>Free</td>
+                </tr>
+                <tr>
+                    <th>Order Total</th>
+                    <td class="ordertotal">$@Model.TotalPriceOfProducts().ToString()</td>
+                </tr>
+            </table>
+            <div class="text-right">
+                <a asp-controller="Home" asp-action="Index" class="btn btn-primary btn-lg"><i class="fa fa-arrow-circle-left fa-fw"></i>Go On Shopping </a>
+                <a asp-controller="Cart" asp-action="CheckOut" class="btn btn-primary btn-lg"><i class="fa fa-arrow-circle-right fa-fw"></i>Go To Checkout Page </a>
+            </div>
+        </div>
+        <!-- cart total end -->
+
+    </div>
+    <!-- row end -->
+</section>

@@ -1,0 +1,41 @@
+﻿@model LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<section id="content">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="padding25">
+                    <h4><b>LOGIN</b></h4>
+                </div>
+                
+                <div class="text-bold text-danger" asp-validation-summary="All" ></div>
+
+                <form asp-controller="Account" asp-action="Login" method="post">
+                    
+                    <div class="row">
+                        <input type="hidden" name="returnUrl" value="@ViewBag.returnUrl" />
+                        <div class="form-group col-xl-8">
+                            <input asp-for="Email" class="form-control input-lg" placeholder="Email">
+                        </div>
+                        <div class="form-group col-xl-8">
+                            <input asp-for="Password" class="form-control input-lg" placeholder="Password">
+                        </div>
+                        <div class="form-group col-xs-12 text-left">
+                            <button type="submit" class="btn btn-primary btn-lg"><i class="fa fa-send fa-fw"></i> Login</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-4">
+                <div class="padding25">
+                    <h4>Welcome To  <b>My E-Commerce Web Site </b></h4>
+                </div>
+                <p>Have good shoppings to you :)</p>
+            </div>
+        </div>
+    </div>
+
+</section>

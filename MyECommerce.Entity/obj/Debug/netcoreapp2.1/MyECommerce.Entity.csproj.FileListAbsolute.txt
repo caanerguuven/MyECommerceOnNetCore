@@ -1,0 +1,9 @@
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Entity\bin\Debug\netcoreapp2.1\MyECommerce.Entity.deps.json
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Entity\bin\Debug\netcoreapp2.1\MyECommerce.Entity.dll
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Entity\bin\Debug\netcoreapp2.1\MyECommerce.Entity.pdb
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Entity\obj\Debug\netcoreapp2.1\MyECommerce.Entity.csproj.CoreCompileInputs.cache
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Entity\obj\Debug\netcoreapp2.1\MyECommerce.Entity.AssemblyInfoInputs.cache
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Entity\obj\Debug\netcoreapp2.1\MyECommerce.Entity.AssemblyInfo.cs
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Entity\obj\Debug\netcoreapp2.1\MyECommerce.Entity.dll
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Entity\obj\Debug\netcoreapp2.1\MyECommerce.Entity.pdb
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Entity\obj\Debug\netcoreapp2.1\MyECommerce.Entity.csprojAssemblyReference.cache

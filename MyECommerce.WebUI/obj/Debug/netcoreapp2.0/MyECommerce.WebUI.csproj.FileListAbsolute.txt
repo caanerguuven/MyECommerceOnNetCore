@@ -1,0 +1,16 @@
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.WebUI\bin\Debug\netcoreapp2.0\MyECommerce.WebUI.deps.json
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.WebUI\bin\Debug\netcoreapp2.0\MyECommerce.WebUI.runtimeconfig.json
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.WebUI\bin\Debug\netcoreapp2.0\MyECommerce.WebUI.runtimeconfig.dev.json
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.WebUI\bin\Debug\netcoreapp2.0\MyECommerce.WebUI.dll
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.WebUI\bin\Debug\netcoreapp2.0\MyECommerce.WebUI.pdb
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.WebUI\bin\Debug\netcoreapp2.0\MyECommerce.Entity.dll
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.WebUI\bin\Debug\netcoreapp2.0\MyECommerce.Repository.dll
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.WebUI\bin\Debug\netcoreapp2.0\MyECommerce.Repository.pdb
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.WebUI\bin\Debug\netcoreapp2.0\MyECommerce.Entity.pdb
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.WebUI\obj\Debug\netcoreapp2.0\MyECommerce.WebUI.csprojAssemblyReference.cache
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.WebUI\obj\Debug\netcoreapp2.0\MyECommerce.WebUI.csproj.CoreCompileInputs.cache
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.WebUI\obj\Debug\netcoreapp2.0\MyECommerce.WebUI.AssemblyInfoInputs.cache
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.WebUI\obj\Debug\netcoreapp2.0\MyECommerce.WebUI.AssemblyInfo.cs
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.WebUI\obj\Debug\netcoreapp2.0\MyECommerce.WebUI.csproj.CopyComplete
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.WebUI\obj\Debug\netcoreapp2.0\MyECommerce.WebUI.dll
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.WebUI\obj\Debug\netcoreapp2.0\MyECommerce.WebUI.pdb

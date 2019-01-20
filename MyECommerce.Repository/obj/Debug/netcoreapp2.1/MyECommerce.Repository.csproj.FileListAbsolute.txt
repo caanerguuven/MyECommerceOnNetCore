@@ -1,0 +1,14 @@
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\bin\Debug\netcoreapp2.1\MyECommerce.Repository.deps.json
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\bin\Debug\netcoreapp2.1\MyECommerce.Repository.runtimeconfig.json
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\bin\Debug\netcoreapp2.1\MyECommerce.Repository.runtimeconfig.dev.json
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\bin\Debug\netcoreapp2.1\MyECommerce.Repository.dll
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\bin\Debug\netcoreapp2.1\MyECommerce.Repository.pdb
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\bin\Debug\netcoreapp2.1\MyECommerce.Entity.dll
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\bin\Debug\netcoreapp2.1\MyECommerce.Entity.pdb
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\obj\Debug\netcoreapp2.1\MyECommerce.Repository.csprojAssemblyReference.cache
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\obj\Debug\netcoreapp2.1\MyECommerce.Repository.csproj.CoreCompileInputs.cache
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\obj\Debug\netcoreapp2.1\MyECommerce.Repository.AssemblyInfoInputs.cache
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\obj\Debug\netcoreapp2.1\MyECommerce.Repository.AssemblyInfo.cs
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\obj\Debug\netcoreapp2.1\MyECommerce.Repository.csproj.CopyComplete
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\obj\Debug\netcoreapp2.1\MyECommerce.Repository.dll
+D:\DeveloperSide\MyEducationProjects\MyECommerce\MyECommerce\MyECommerce.Repository\obj\Debug\netcoreapp2.1\MyECommerce.Repository.pdb
